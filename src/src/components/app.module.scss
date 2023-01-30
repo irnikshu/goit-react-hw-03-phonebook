@@ -1,0 +1,37 @@
+.block {
+  width: 300px;
+  border: 1px solid;
+  padding-left: 50px;
+}
+.wrapper {
+  align-items: center;
+  justify-content: center;
+  margin-left: 350px;
+}
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.blockTitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.inp {
+  margin-bottom: 20px;
+  width: 200px;
+}
+.blockInput {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.btn {
+  cursor: pointer;
+  width: 100px;
+  margin-bottom: 20px;
+
+}
